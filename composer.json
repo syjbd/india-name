@@ -11,8 +11,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": ">=5.3",
-        "SomePackage": "1.x"
+        "php": ">=5.3"
     },
     "autoload": {
         "psr-4": {

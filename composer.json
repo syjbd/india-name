@@ -12,7 +12,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.3",
-        "Syjbd/IndiaName":"dev-master"
+        "another-vendor/package": "1.*"
     },
     "autoload": {
         "psr-4": {
